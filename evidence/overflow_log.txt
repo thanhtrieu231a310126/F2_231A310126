@@ -1,0 +1,5 @@
+--------- beginning of main
+10-01 02:20:01.771  5068  5127 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-01 02:20:01.826  5068  5133 I flutter : The Dart VM service is listening on http://127.0.0.1:38037/Lx2Q_HfX0os=/
+10-01 02:22:20.182  5919  5981 I flutter : [IMPORTANT:flutter/shell/platform/android/android_context_gl_impeller.cc(104)] Using the Impeller rendering backend (OpenGLES).
+10-01 02:22:20.236  5919  5988 I flutter : The Dart VM service is listening on http://127.0.0.1:41043/UgfGe0wX1Ak=/

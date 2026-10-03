@@ -1,0 +1,7 @@
+00:00 +0: loading /Users/shini/Documents/project/trieu/f2_layout/test/widget_test.dart
+00:00 +0: Login interactions and dark theme
+00:01 +1: Responsive 320.0 and keyboard
+00:01 +2: Responsive 699.0 and keyboard
+00:01 +3: Responsive 700.0 and keyboard
+00:01 +4: Responsive 900.0 and keyboard
+00:01 +5: All tests passed!
